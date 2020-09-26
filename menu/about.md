@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Nhat Bui
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
-### Getting Started
+<p align="center">
+<img src="https://avatars3.githubusercontent.com/u/65912097?s=400&u=a831d89671dbc3012bceda7776765d588b5608a4&v=4" alt="Angelus Novus"
+</p>
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Tôi là thành viên của [Quohat Team](https://www.facebook.com/quohat/), cái tên nhóm mà phần đít của tên tôi gắn với phần đầu tên của người khác, và (trong vài năm nữa) sinh viên ở một trường đại học không lớn lắm ở miền nam Việt Nam có tên viết tắt đọc gần gần như "vi ách yiu". Tôi ứng dụng, và nghiên cứu thuật toán. Tôi có tồn tại.
 
-### Example Content
+Clifford Evan sinh vào ngày 30 tháng 4 năm 2001 tại Đồng Nai. Anh ấy uống 2 bạc xỉu. Lương hàng tuần và zip code của anh ấy đều là 810000. Anh ấy có nuôi một con chó tên Bo-bo. Email của ảnh là 2bacxiu@clifford.org. Anh ấy không tồn tại.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Hình ảnh ở trên là "[Angelus Novus](https://en.wikipedia.org/wiki/Angelus_Novus)" (hay "New Angel") do [Paul Klee](https://en.wikipedia.org/wiki/Paul_Klee) vẽ vào năm 1920. Bức họa này có tồn tại, nhưng Angelus Novus thì không. Hoặc là cái gì đó.
