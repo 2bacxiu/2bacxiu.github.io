@@ -17,10 +17,20 @@
   Base
 */
 
- @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap');
+@font-face {
+  font-family: Pagella-Regular;
+  src: url(/fonts/texgyrepagella-regular.off);
+  font-variant-numeric: oldstyle-nums;
+}
+
+@font-face {
+  font-family: Pagella-Bold;
+  src: url(/fonts/texgyrepagella-bold.off);
+  font-variant-numeric: oldstyle-nums;
+}
 
 body {
-  font-family: 'EB Garamond', serif;
+  font-family: 'Pagella-Regular', serif;
   font-size: 18px;
   color: #333;
   line-height: 1.75rem;
@@ -34,15 +44,15 @@ body {
     font-variant-numeric: oldstyle-nums;
   }
   body h1 {
+    font-family: 'Pagella-Bold', serif;
     font-size: 1.5rem;
-    font-weight: 600;
     font-variant-numeric: oldstyle-nums;
   }
 }
 
 h1{
+  font-family: 'Pagella-Bold', serif;
   font-size: 2rem;
-  font-weight: 600;
   font-variant-numeric: oldstyle-nums;
 }
 
@@ -52,7 +62,7 @@ h1 a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'EB Garamond', serif;
+  font-family: 'Pagella-Regular', serif;
   color: #000;
   font-variant-numeric: oldstyle-nums;
 }
@@ -115,7 +125,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: "Pagella-Regular", serif;
 }
 
 .masthead a:hover {
@@ -167,7 +177,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Pagella-Regular', sans-serif;
   font-size:0.8rem;
 }
 
@@ -196,7 +206,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'EB Garamond', serif;
+  font-family: 'Pagella-Regular', serif;
   text-align: center;
   font-variant-numeric: oldstyle-nums;
 }
