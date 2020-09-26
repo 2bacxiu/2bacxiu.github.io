@@ -37,6 +37,11 @@ body {
   font-variant-numeric: oldstyle-nums;
 }
 
+b {
+    font-family: 'Pagella-Bold', sans-serif;
+    font-variant-numeric: oldstyle-nums;
+}
+
 @media (max-width: 40em) {
   body {
     font-size: 14px;
