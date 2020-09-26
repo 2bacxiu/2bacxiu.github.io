@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: inherit;
+    color: #333;
     text-decoration-line: underline;
     text-decoration-style: dotted;
     text-decoration-color: #999;
