@@ -57,6 +57,7 @@ b {
 
 h1{
   font-family: 'Pagella-Bold', serif;
+  color: #000;
   font-size: 2rem;
   font-variant-numeric: oldstyle-nums;
 }
