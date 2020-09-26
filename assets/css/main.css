@@ -19,13 +19,13 @@
 
 @font-face {
   font-family: Pagella-Regular;
-  src: url(/fonts/texgyrepagella-regular.off);
+  src: url(/fonts/texgyrepagella-regular.otf);
   font-variant-numeric: oldstyle-nums;
 }
 
 @font-face {
   font-family: Pagella-Bold;
-  src: url(/fonts/texgyrepagella-bold.off);
+  src: url(/fonts/texgyrepagella-bold.otf);
   font-variant-numeric: oldstyle-nums;
 }
 
