@@ -37,7 +37,7 @@ body {
   font-variant-numeric: oldstyle-nums;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 40em) {
   body {
     font-size: 14px;
     line-height: 1.5rem;
