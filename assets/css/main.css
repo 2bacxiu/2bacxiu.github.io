@@ -17,7 +17,7 @@
   Base
 */
 
- @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600&display=swap');
 
 body {
   font-family: 'EB Garamond', serif;
@@ -31,22 +31,24 @@ body {
   body {
     font-size: 14px;
     line-height: 1.5rem;
+    font-variant-numeric: oldstyle-nums;
   }
   body h1 {
     font-size: 1.5rem;
-    font-weight: 700;
+    font-weight: 600;
     font-variant-numeric: oldstyle-nums;
   }
 }
 
 h1{
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 600;
   font-variant-numeric: oldstyle-nums;
 }
 
 h1 a {
   text-decoration: none;
+  font-variant-numeric: oldstyle-nums;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,8 +58,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  text-decoration: dotted;
-  color: #aaa;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #999;
+    font-variant-numeric: oldstyle-nums;
 }
 
 a:hover {
@@ -191,8 +195,9 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'EB Garamond', serif;
   text-align: center;
+  font-variant-numeric: oldstyle-nums;
 }
 
 .pagination a {
@@ -206,6 +211,7 @@ hr {
   display: inline-block;
   font-size: 16px;
   font-weight: bold;
+  font-variant-numeric: oldstyle-nums;
 }
 
 .pagination-active {
