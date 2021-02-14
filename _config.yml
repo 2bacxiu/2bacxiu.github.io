@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           '2 Bạc Xỉu của Clifford'
-description:	       'Gọi x là ẩn cần tìm, đặt x = x. Amen.'
+description:	       'Let x = x. Amen!'
 author:              'Clifford'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
