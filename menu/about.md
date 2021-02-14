@@ -14,4 +14,4 @@ Clifford Evan sinh vào ngày 30 tháng 4 năm 2001 tại Đồng Nai. Thức u�
 
 Hình ảnh ở trên là "[Angelus Novus](https://en.wikipedia.org/wiki/Angelus_Novus)" (hay "New Angel") do [Paul Klee](https://en.wikipedia.org/wiki/Paul_Klee) vẽ vào năm 1920. Bức họa này có tồn tại, nhưng Angelus Novus thì không. Hoặc là gì đấy.
 
-Nếu bạn thích những gì tôi làm, hãy mua hoặc tặng 10.000 đồng cho người bán dạo trên đường mà bạn gặp hôm nay.
+Nếu bạn thích những gì tôi làm, hãy mua hoặc tặng 10.000 đồng cho người bán dạo mà bạn gặp trên đường hôm nay.
