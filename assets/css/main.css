@@ -44,7 +44,7 @@
 body {
   font-family: 'Schola-Regular', serif;
   font-size: 18px;
-  color: #333;
+  color: #1b95e0;
   line-height: 1.6rem;
   font-variant-numeric: oldstyle-nums;
 }
@@ -97,15 +97,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #333;
-    text-decoration-line: underline;
-    text-decoration-style: dotted;
-    text-decoration-color: #aaa;
+    color: #1b95e0;
     font-variant-numeric: oldstyle-nums;
 }
 
 a:hover {
-  color: black;
+  color: #55acee;
   border-bottom: none;
 }
 
@@ -119,10 +116,11 @@ blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
   border-left: 0.25em solid #aaa;
-  color: #555;
+  color: #444;
   line-height: 1.5;
+  font-family: 'Schola-Italic', sans-serif;
   font-variant-numeric: oldstyle-nums;
-  font-style: italic;
+  font-weight: 400;
 }
 
 hr {
@@ -280,7 +278,7 @@ hr {
 }
 
 .footer a:hover {
-  color: #333;
+  color: #1b95e0;
 }
 
 /*
@@ -409,6 +407,9 @@ table, th, td {
 th, td {
   padding: 15px;
   text-align: left;
+  font-family: 'Schola-Bold', sans-serif;
+  font-variant-numeric: oldstyle-nums;
+  font-weight: 400;
 }
 
 /*
