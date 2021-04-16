@@ -29,6 +29,18 @@
   font-variant-numeric: oldstyle-nums;
 }
 
+@font-face {
+  font-family: Schola-Italic;
+  src: url(/fonts/texgyreschola-italic.otf);
+  font-variant-numeric: oldstyle-nums;
+}
+
+@font-face {
+  font-family: Schola-BoldItalic;
+  src: url(/fonts/texgyreschola-bolditalic.otf);
+  font-variant-numeric: oldstyle-nums;
+}
+
 body {
   font-family: 'Schola-Regular', serif;
   font-size: 18px;
@@ -39,6 +51,12 @@ body {
 
 b {
     font-family: 'Schola-Bold', sans-serif;
+    font-variant-numeric: oldstyle-nums;
+    font-weight: 400;
+}
+
+i {
+    font-family: 'Schola-Italic', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: 400;
 }
