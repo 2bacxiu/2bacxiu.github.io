@@ -77,6 +77,12 @@ strong {
     font-weight: 400;
 }
 
+em strong {
+    font-family: 'Schola-BoldItalic', sans-serif;
+    font-variant-numeric: oldstyle-nums;
+    font-weight: 400;
+}
+
 @media (max-width: 40em) {
   body {
     font-size: 14px;
@@ -136,11 +142,11 @@ img {
   border-radius: 5px;
 }
 
-ol {
+ol::marker {
     font-variant-numeric: oldstyle-nums;
 }
 
-li {
+li::marker {
     font-variant-numeric: oldstyle-nums;
 }
 
