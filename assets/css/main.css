@@ -89,6 +89,13 @@ h1 a {
   font-weight: 400;
 }
 
+h1 a:hover {
+  text-decoration: none;
+  color: #000;
+  font-variant-numeric: oldstyle-nums;
+  font-weight: 400;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Schola-Bold', serif;
   color: #000;
@@ -403,15 +410,15 @@ table {
 
 table, th, td {
   border: 1px solid black;
+  text-align: left;
+  font-variant-numeric: oldstyle-nums;
 }
 
 td {
-  padding: 15px;
   text-align: left;
 }
 
 th {
-    padding: 15px;
     text-align: left;
     font-family: 'Schola-Bold', sans-serif;
     font-variant-numeric: oldstyle-nums;
