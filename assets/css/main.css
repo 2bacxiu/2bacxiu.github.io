@@ -44,7 +44,7 @@
 body {
   font-family: 'Schola-Regular', serif;
   font-size: 18px;
-  color: #1b95e0;
+  color: #000;
   line-height: 1.6rem;
   font-variant-numeric: oldstyle-nums;
 }
@@ -98,6 +98,7 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
     color: #1b95e0;
+    text-decoration: none;
     font-variant-numeric: oldstyle-nums;
 }
 
@@ -404,12 +405,17 @@ table, th, td {
   border: 1px solid black;
 }
 
-th, td {
+td {
   padding: 15px;
   text-align: left;
-  font-family: 'Schola-Bold', sans-serif;
-  font-variant-numeric: oldstyle-nums;
-  font-weight: 400;
+}
+
+th {
+    padding: 15px;
+    text-align: left;
+    font-family: 'Schola-Bold', sans-serif;
+    font-variant-numeric: oldstyle-nums;
+    font-weight: 400;
 }
 
 /*
