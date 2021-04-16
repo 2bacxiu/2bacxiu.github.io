@@ -146,7 +146,7 @@ ol::marker {
     font-variant-numeric: oldstyle-nums;
 }
 
-li::marker {
+li::marker\ {
     font-variant-numeric: oldstyle-nums;
 }
 
