@@ -51,7 +51,7 @@ body {
 }
 
 b {
-    font-family: 'XCharter-Bold', sans-serif;
+    font-family: 'XCharter', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: bold;
 }
@@ -67,7 +67,7 @@ em {
 }
 
 strong {
-    font-family: 'XCharter-Bold', sans-serif;
+    font-family: 'XCharter', sans-serif;
     font-variant-numeric: oldstyle-nums;
 }
 
@@ -442,7 +442,7 @@ td {
 th {
     padding: 15px;
     text-align: left;
-    font-family: 'XCharter-Bold', sans-serif;
+    font-family: 'XCharter', sans-serif;
     font-variant-numeric: oldstyle-nums;
 }
 
