@@ -49,31 +49,26 @@ body {
 b {
     font-family: 'XCharter-Bold', sans-serif;
     font-variant-numeric: oldstyle-nums;
-    font-weight: 400;
 }
 
 i {
     font-family: 'XCharter-Italic', sans-serif;
     font-variant-numeric: oldstyle-nums;
-    font-weight: 400;
 }
 
 em {
     font-family: 'XCharter-Italic', sans-serif;
     font-variant-numeric: oldstyle-nums;
-    font-weight: 400;
 }
 
 strong {
     font-family: 'XCharter-Bold', sans-serif;
     font-variant-numeric: oldstyle-nums;
-    font-weight: 400;
 }
 
 em strong {
     font-family: 'XCharter-BoldItalic', sans-serif;
     font-variant-numeric: oldstyle-nums;
-    font-weight: 400;
 }
 
 @media (max-width: 40em) {
@@ -93,7 +88,6 @@ h1{
   font-family: 'XCharter-Bold', serif;
   color: #000;
   font-size: 2rem;
-  font-weight: 400;
   font-variant-numeric: oldstyle-nums;
 }
 
@@ -101,20 +95,17 @@ h1 a {
   text-decoration: none;
   color: #000;
   font-variant-numeric: oldstyle-nums;
-  font-weight: 400;
 }
 
 h1 a:hover {
   text-decoration: none;
   color: #000;
   font-variant-numeric: oldstyle-nums;
-  font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'XCharter-Bold', serif;
   color: #000;
-  font-weight: 400;
   font-variant-numeric: oldstyle-nums;
 }
 
@@ -152,7 +143,6 @@ blockquote {
   line-height: 1.5;
   font-family: 'XCharter-Italic', sans-serif;
   font-variant-numeric: oldstyle-nums;
-  font-weight: 400;
 }
 
 hr {
@@ -282,7 +272,6 @@ hr {
   display: inline-block;
   font-size: 16px;
   font-family: 'XCharter-Bold', serif;
-  font-weight: 400;
   font-variant-numeric: oldstyle-nums;
 }
 
@@ -450,7 +439,6 @@ th {
     text-align: left;
     font-family: 'XCharter-Bold', sans-serif;
     font-variant-numeric: oldstyle-nums;
-    font-weight: 400;
 }
 
 /*
