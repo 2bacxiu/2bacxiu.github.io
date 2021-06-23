@@ -20,33 +20,26 @@
 *{
     text-align: justify;
 }
-
 @font-face {
-  font-family: Schola-Regular;
-  src: url(/fonts/texgyreschola-regular.otf);
-  font-variant-numeric: oldstyle-nums;
+    font-family: XCharter-Regular;
+    src: url("./fonts/XCharter-Roman.otf") format("opentype");
+    font-style: normal;;
 }
-
 @font-face {
-  font-family: Schola-Bold;
-  src: url(/fonts/texgyreschola-bold.otf);
-  font-variant-numeric: oldstyle-nums;
+    font-family: XCharter-Bold;
+    src: url("./fonts/XCharter-Bold.otf") format("opentype");
 }
-
 @font-face {
-  font-family: Schola-Italic;
-  src: url(/fonts/texgyreschola-italic.otf);
-  font-variant-numeric: oldstyle-nums;
+    font-family: XCharter-Italic;
+    src: url("./fonts/XCharter-Italic.otf") format("opentype");
 }
-
 @font-face {
-  font-family: Schola-BoldItalic;
-  src: url(/fonts/texgyreschola-bolditalic.otf);
-  font-variant-numeric: oldstyle-nums;
+    font-family: XCharter-BoldItalic;
+    src: url("./fonts/XCharter-BoldItalic.otf") format("opentype");
 }
 
 body {
-  font-family: 'Schola-Regular', serif;
+  font-family: 'XCharter-Regular', serif;
   font-size: 18px;
   color: #000;
   line-height: 1.6rem;
@@ -54,31 +47,31 @@ body {
 }
 
 b {
-    font-family: 'Schola-Bold', sans-serif;
+    font-family: 'XCharter-Bold', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: 400;
 }
 
 i {
-    font-family: 'Schola-Italic', sans-serif;
+    font-family: 'XCharter-Italic', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: 400;
 }
 
 em {
-    font-family: 'Schola-Italic', sans-serif;
+    font-family: 'XCharter-Italic', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: 400;
 }
 
 strong {
-    font-family: 'Schola-Bold', sans-serif;
+    font-family: 'XCharter-Bold', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: 400;
 }
 
 em strong {
-    font-family: 'Schola-BoldItalic', sans-serif;
+    font-family: 'XCharter-BoldItalic', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: 400;
 }
@@ -90,14 +83,14 @@ em strong {
     font-variant-numeric: oldstyle-nums;
   }
   body h1 {
-    font-family: 'Schola-Bold', serif;
+    font-family: 'XCharter-Bold', serif;
     font-size: 1.5rem;
     font-variant-numeric: oldstyle-nums;
   }
 }
 
 h1{
-  font-family: 'Schola-Bold', serif;
+  font-family: 'XCharter-Bold', serif;
   color: #000;
   font-size: 2rem;
   font-weight: 400;
@@ -119,7 +112,7 @@ h1 a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Schola-Bold', serif;
+  font-family: 'XCharter-Bold', serif;
   color: #000;
   font-weight: 400;
   font-variant-numeric: oldstyle-nums;
@@ -157,7 +150,7 @@ blockquote {
   border-left: 0.25em solid #aaa;
   color: #444;
   line-height: 1.5;
-  font-family: 'Schola-Italic', sans-serif;
+  font-family: 'XCharter-Italic', sans-serif;
   font-variant-numeric: oldstyle-nums;
   font-weight: 400;
 }
@@ -192,7 +185,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Schola-Regular", serif;
+  font-family: "XCharter-Regular", serif;
 }
 
 .masthead a:hover {
@@ -244,7 +237,7 @@ hr {
   margin-top:3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: 'Schola-Regular', sans-serif;
+  font-family: 'XCharter-Regular', sans-serif;
   font-size:0.8rem;
 }
 
@@ -273,7 +266,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: 'Schola-Regular', serif;
+  font-family: 'XCharter-Regular', serif;
   text-align: center;
   font-variant-numeric: oldstyle-nums;
 }
@@ -288,7 +281,7 @@ hr {
   padding: 15px 45px;
   display: inline-block;
   font-size: 16px;
-  font-family: 'Schola-Bold', serif;
+  font-family: 'XCharter-Bold', serif;
   font-weight: 400;
   font-variant-numeric: oldstyle-nums;
 }
@@ -455,7 +448,7 @@ td {
 th {
     padding: 15px;
     text-align: left;
-    font-family: 'Schola-Bold', sans-serif;
+    font-family: 'XCharter-Bold', sans-serif;
     font-variant-numeric: oldstyle-nums;
     font-weight: 400;
 }
